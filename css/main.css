@@ -1,21 +1,29 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
 h1 {
-  font-family: verdana;
-  z-index: -1;
-  text-align: left;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-  font-family: verdana;
-  text-align: left;
-  z-index: -1;
-  width: 600px;
-  line-height: 1.8;
-  padding-top: 6px;
-}
-ul {
-  font-family: verdana;
-  font-size: 17px;
-  text-align: left;
-  z-index: -1;
-  width: 600px;
-  line-height: 1.8;
-}
+    font-size: 1.5em;
+    line-height: 1.4em;
+ 
