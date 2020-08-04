@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Complete Manual of Suicide | Foreword
-date: 2020-08-04
-story: kanzen
-categories: kanzen
-writer: wataru tsurumi
-chapter: prologue
+  layout: post
+  title: Complete Manual of Suicide | Foreword
+  date: 2020-08-04
+  story: kanzen
+  categories: kanzen
+  writer: wataru tsurumi
+  chapter: Foreword
 ---
 This book meticulously talks about the different methods of suicide.
 <p>&nbsp;</p>
