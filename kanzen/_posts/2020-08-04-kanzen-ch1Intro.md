@@ -20,7 +20,7 @@ Impact ▼▽▽▽▽
 
 Lethality  ▼▽▽▽▽
 
-<div class="smalltext">**If you can manage to do it successfully, there is no better way to die. The main trouble is that many of the available options do not always work. This method can also cause severe agony.**</div>
+<div class="smalltext"><i>If you can manage to do it successfully, there is no better way to die. The main trouble is that many of the available options do not always work. This method can also cause severe agony.</i></div>
 
 Red, blue and yellow. Scattered on the table are pretty tablets and capsules of varying colours. There might even be a small pile of white powder. If you were to ingest even a little, you would fall asleep and never wake up again. Death eventually comes as a form of extended sleep. This is the most ideal method of suicide, and is also only attainable through the use of medicines.
 Some types of medicine can control the mind. The brain is a self organising system responsible for controlling the entirety of the human body. From breathing to heartbeat regulation, the brain manages all functions required to maintain life. To explain further, when the brain loses its ability to coordinate itself upon ingesting these types of medicine, the body is no longer able to support life. As such, this method could be better classified as a technique for self-lobotomy.
