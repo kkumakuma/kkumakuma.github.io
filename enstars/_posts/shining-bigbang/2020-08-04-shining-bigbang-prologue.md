@@ -8,6 +8,9 @@ writer: akira (日日日)
 <p class="meta"><a href= "https://kkumakuma.github.io/enstars/shining-bigbang/">shining-bigbang</a></p>
 <p>&nbsp;</p>
 
+<img src="/resources/images/BIGBANG-Prologue.png" alt="BIGBANG Prologue">
+<p>&nbsp;</p>
+
 〈Spring. After school, inside the StarPro office.〉
 <p>&nbsp;</p>
 
