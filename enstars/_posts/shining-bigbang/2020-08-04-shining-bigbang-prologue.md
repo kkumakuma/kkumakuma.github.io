@@ -132,4 +132,5 @@ Ah, this is making me feel uneasy. The one who controls everything from behind t
 
 
 <a href="https://kkumakuma.github.io/enstars/shining-bigbang/"> << Back to main
+
 <a href=""> Next Chapter >>
