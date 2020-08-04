@@ -1,5 +1,5 @@
 ---
-  layout: post
+  layout: books
   title: Complete Manual of Suicide | Foreword
   date: 2020-08-04
   story: kanzen
