@@ -128,3 +128,7 @@ The message was from the so-called 'Emperor' who rules StarPro, no, ES, from the
 **Hokuto:** Be that as it may, I still don’t consider him a friend. All he ever sends us is bad news. It’s been a bad experience.
 
 Ah, this is making me feel uneasy. The one who controls everything from behind the scenes, 'Emperor' Tenshouin Eichi- just what in the Hell is he planning on hitting us with?
+
+
+<a href="https://kkumakuma.github.io/enstars/shining-bigbang/"> << Back to main
+<a href=""> Next Chapter >>
