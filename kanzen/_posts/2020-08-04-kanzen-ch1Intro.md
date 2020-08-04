@@ -1,11 +1,11 @@
 ---
   layout: books
-  title: Chapter I — Taking Medicines
+  title: Chapter I — Taking Medicines (Introduction)
   date: 2020-08-04
   story: complete-manual-of-suicide
   categories: kanzen
   writer: wataru tsurumi
-  chapter: Foreword
+  chapter: ch1Intro
 ---
 ###Medicine
 Painfulness －－－－－
