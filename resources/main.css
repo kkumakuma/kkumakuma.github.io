@@ -23,6 +23,9 @@ h1 {
     font-size: 2em;
     font-family:'Verdana';
 }
+body {
+  font-family: Verdana
+}
 p {
     font-size: 1.2em;
     line-height: 1.4em;
