@@ -15,21 +15,17 @@ A utopia for idols - we, Trickstar, will be covering Ensemble Square’s famous 
 Everyone in the tea room, and everyone who’s watching over the internet, I wonder if you can guess who we are by our faces?
 
 For those of you who might be thinking “Hey who are you!?”, once again we’ll be doing a self-introduction! Alright, over to you Ukki~☆
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 **Makoto:** H-hey, sorry- I don’t get what you’re on about at all, Akehoshi-kun!?
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 **Mao:** Same here. …...Subaru~ what’s this all of a sudden? Are you playing a game?
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 **Hokuto:** Don’t be so loud in the office, Akehoshi, the other employees are still working.
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 **Subaru:** Huh~? That’s a surprisingly weak reaction. I heard it from Anzu that we, Trickstar, are doing an introduction of Ensemble Square!
 
 Although I’m not sure how we’ll be doing the introductions, she said it was something about a tie-up with TV and something about a program…….
