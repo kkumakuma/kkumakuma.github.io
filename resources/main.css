@@ -23,10 +23,12 @@ h1 {
     font-size: 2em;
     font-family:Verdana;
 }
+body {
+  font-family: Verdana;
+}
 p {
     font-size: 1.1em;
     line-height: 1.4em;
-    font-family: Verdana
     color: #333;
 }
 footer {
