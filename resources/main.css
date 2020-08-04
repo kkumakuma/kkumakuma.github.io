@@ -20,13 +20,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Verdana';
 }
 p {
-    font-family: 'Verdana'
     font-size: 1.2em;
     line-height: 1.4em;
+    font-family: 'Verdana'
     color: #333;
 }
 footer {
