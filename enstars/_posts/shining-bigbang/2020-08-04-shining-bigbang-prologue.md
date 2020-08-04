@@ -6,6 +6,7 @@ categories: shining-bigbang
 ---
 〈Spring. After school, inside the StarPro office.〉
 <p>&nbsp;</p>
+
 **Subaru:** Charge! Trickstar ……..☆
 
 Come, come, it’s starting this week!
