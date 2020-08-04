@@ -4,7 +4,7 @@ title: Nova Cluster ☆ Shining Big Bang! | Prologue
 date: 2020-08-04
 categories: shining-bigbang
 ---
-<p class="meta">{{ page.categories | <a href= "https://kkumakuma.github.io/enstars/shining-bigbang/"> }}</p>
+<p class="meta"><a href= "https://kkumakuma.github.io/enstars/shining-bigbang/">shining-bigbang</p>
 
 〈Spring. After school, inside the StarPro office.〉
 <p>&nbsp;</p>
