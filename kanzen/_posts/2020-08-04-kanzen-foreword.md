@@ -71,3 +71,10 @@ Under such circumstances, life no longer holds any grand meaning. Perhaps it is 
 Amongst my friends, I knew someone who would, no matter where he went, wear a little silver metal capsule on a necklace. Inside was an extremely strong drug that, when ingested, would cause the person to fall into a disoriented state, allowing them to peacefully jump off a high-rise building. This was called “Angel Dust”. He said, “If things become bad, I can take this to kill myself.” My friend did not have a stable job, and lived every day comfortably.
 
 I hope this book can become something to another what that little silver capsule was to my friend.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<a href="https://kkumakuma.github.io/kanzen/"> << Back to Main
+
+<a href="https://kkumakuma.github.io/kanzen/2020/08/04/kanzen-ch1Intro.html"> Next Chapter >>

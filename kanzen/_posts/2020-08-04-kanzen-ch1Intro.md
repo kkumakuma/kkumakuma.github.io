@@ -71,3 +71,10 @@ The next step is to find somewhere where you will not be found. You should ensur
 A 25 year old woman was subjected to stomach pumping as a result of attempted suicide. She said, “I wouldn’t have tried to commit suicide if I knew it would end in so much pain.” (But she also said, “Maybe I’ll try it again.”)
 
 Since we have now made the necessary preparations, I will start introducing the medicines that you can use to commit suicide.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<a href="https://kkumakuma.github.io/kanzen/2020/08/04/kanzen-foreword.html"> << Previous Chapter
+
+<a href=""> Next Chapter >>

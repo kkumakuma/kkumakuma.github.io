@@ -136,6 +136,6 @@ Ah, this is making me feel uneasy. The one who controls everything from behind t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<a href="https://kkumakuma.github.io/enstars/shining-bigbang/"> << Back to main
+<a href="https://kkumakuma.github.io/enstars/shining-bigbang/"> << Back to Main
 
 <a href=""> Next Chapter >>
