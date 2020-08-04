@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enstars
 title: Nova Cluster ☆ Shining Big Bang! | Prologue
 date: 2020-08-04
 story: shining-bigbang
