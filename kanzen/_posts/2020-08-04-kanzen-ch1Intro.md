@@ -77,4 +77,4 @@ Since we have now made the necessary preparations, I will start introducing the 
 
 <a href="https://kkumakuma.github.io/kanzen/2020/08/04/kanzen-foreword.html"> << Previous Chapter
 
-<a href=""> Next Chapter >>
+Next Chapter >>
