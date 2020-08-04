@@ -4,6 +4,9 @@
   margin-right: auto;
   width: 50%;
 }
+.smalltext {
+  font-size: 0.8em!important;
+}
 
 body {
     margin: 60px auto;
