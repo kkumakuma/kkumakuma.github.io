@@ -121,7 +121,7 @@ And yet, for us, Trickstar, who thought it would be smooth sailing from here on 
 Subaru: ? What do you mean?
 <p>&nbsp;</p>
 
-**Hokuto:** Hm. Earlier, I checked the electronic trash can  in ‘Whole Hands’* just in case…… Inside a message that automatically got filtered as spam was something suspicious.
+**Hokuto:** Hm. Earlier, I checked the electronic trash can in Whole Hands just in case…… Inside a message that automatically got filtered as spam was something suspicious.
 
 The message was from the so-called 'Emperor' who rules StarPro, no, ES, from the shadows.
 <p>&nbsp;</p>
