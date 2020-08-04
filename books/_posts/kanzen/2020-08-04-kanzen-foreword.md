@@ -7,7 +7,7 @@
   writer: wataru tsurumi
   chapter: Foreword
 ---
-<h2>Foreword</h2>
+<h3>Foreword</h3>
 This book meticulously talks about the different methods of suicide.
 
 This book, however, is neither a report on those who have killed themselves, nor is it an attempt to explain the reasoning behind those who commit suicide.
