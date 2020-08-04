@@ -5,13 +5,8 @@ date: 2020-08-04
 story: shining-bigbang
 categories: shining-bigbang
 writer: akira (日日日)
+chapter: prologue
 ---
-<p class="meta"><a href= "https://kkumakuma.github.io/enstars/shining-bigbang/">shining-bigbang</a></p>
-<p>&nbsp;</p>
-
-<img src="/resources/images/BIGBANG-Prologue.png" alt="BIGBANG Prologue" class="center">
-<p>&nbsp;</p>
-
 〈Spring. After school, inside the StarPro office.〉
 <p>&nbsp;</p>
 
