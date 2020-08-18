@@ -1,55 +1,66 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-.smalltext {
-  font-size: 0.8em!important;
-}
-
 body {
-    margin: 60px auto;
-    width: 70%;
-    font-family: Verdana;
-}
-nav ul, footer ul {
-    font-family:Verdana;
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 1.5em;
-    font-family:Verdana;
-}
-p {
-    font-size: 0.9em;
-    line-height: 1.3em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+  height: auto;
+  max-width: 70%
 }
 
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1em;
-    line-height: 2em;
+.sidenav-content {
+  list-style-type: none;
+  margin-top: 26em;
+}
+.sidenav {
+  height: 100%;
+  width: 20em;
+  background-color: #f7aab3;
+  overflow-y: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
 }
 
-ul.posts li {
-    list-style: none;
+.sidenav a:hover {
+  color: #e2294f;
+}
+.sidenav a.active {
+  color: #59ffa0;
+}
+
+.sidenav-content a {
+  font-size: 1.2em;
+  display: block;
+  color: white;
+  text-decoration: none;
+  overflow: hidden;
+  text-align: center;
+}
+
+.sidenav-content h1 {
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+  overflow: hidden;
+  text-align: center;
+}
+
+.sidenav-content footer {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 12em;
+  color: white;
+}
+
+.main-body {
+  margin-top: 6em;
+  margin-left: 6em;
+}
+
+.main-body h1 {
+  font-size: 24px;
+  display: block;
+  color: black;
+  text-decoration: none;
+  text-align: left;
 }
