@@ -1,16 +1,34 @@
 @media screen and (max-width: 700px) {
-  .sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
+  #profileicon {
+    display: none;
   }
-  .sidenav a {float: left;}
-  div.content {margin-left: 0;}
+  div.sidenav {
+    width: 100%;
+    height: 3em;
+    position: relative;
+    box-shadow: none;
+  }
+  div.sidenav-content {margin-top: 0;}
+  div.sidenav-content a, footer {display: none;}
+  .navmenubtn {display: none;}
+
+  div.sidenav-content h1 {
+    font-size: 1em;
+  }
+  div.main-body {
+    font-size: 50%;
+    margin-left: 10em;
+    margin-top: 5em;
+  }
 }
 
 /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
 @media screen and (max-width: 400px) {
-  .sidenav a {
+  #profileicon {
+    display: none;
+  }
+
+  .sidenav-content {
     text-align: center;
     float: none;
   }
@@ -31,6 +49,7 @@ body {
   font-size: 2em;
   float:right;
   margin-right: 0.4em;
+  margin-top: 0.3em;
   color: white;
   text-decoration: none;
 }
@@ -38,6 +57,10 @@ body {
 #profileicon {
   align-content: center;
   border-radius: 50%;
+  height: auto;
+  width: auto;
+  max-width: 11em;
+  box-shadow: 2px 2px 5px #d4abc5;
 }
 
 .sidenav-content {
@@ -53,19 +76,13 @@ body {
   background-color: #f7aab3;
   overflow-x: hidden;
   position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
   z-index: 1;
   transition: margin-left .5s;
   box-shadow: 5px 10px 5px #d4abc1;
 }
 
 .sidenav a:hover {
-  color: #e2294f;
-}
-.sidenav a.active {
-  color: #59ffa0;
+  color: #e2294f !important;
 }
 
 .sidenav-content a {
@@ -74,6 +91,9 @@ body {
   color: white;
   text-decoration: none;
   overflow: hidden;
+  margin-top: 0.5em;
+  width: 30%;
+  margin-left: 5.6em;
 }
 
 .sidenav-content h1 {
@@ -88,6 +108,8 @@ body {
   font-size: 0.8em;
   margin-top: 12em;
   color: white;
+  padding-bottom: 30px;
+  margin-left: 2em;
 }
 
 .main-body {
@@ -97,6 +119,8 @@ body {
   background-color: white;
   width: 70%;
   padding: 20px;
+  padding-bottom: 50px;
+  font-size: 0.9em;
 }
 
 .main-body h1 {

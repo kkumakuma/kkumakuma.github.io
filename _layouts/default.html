@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
   	<meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	  <title>{{ page.title }}</title>
 	  <link rel="stylesheet" type="text/css" href="/resources/main.css"> <!-- edit later-->
     <link rel="stylesheet"
@@ -12,24 +13,25 @@
   </head>
 
   <body>
-      <div class="body-contents">
-        <div class="sidenav" id="sidebar">
-          <a href="javascript:void(0)" class="navmenubtn" onclick="togNav()">&#9776;</a>
+    <div class="body-contents">
+
+      <div class="sidenav" id="sidebar">
+        <a href="javascript:void(0)" class="navmenubtn" id="navbtnicon" onclick="toggleNav()">&#10005;</a>
 
         <div class="sidenav-content" id="sidenavcontent">
-          <img src="/resources/images/profile.png" id="profileicon"></img>
-          <h1>すやすや</h1> <br>
-          <a href="/index.html">Home</a> <br>
-          <a href="/??">About</a><br>
-          <a href="/tls">Archives</a>
-          <footer>
-            <h2>Contact</h2>
-          	<a href="https://twitter.com/_kkumakuma">twitter</a>
-            <a href="https://github.com/kkumakuma">github</a>
-      		</footer>
-        </div>
+          <img src="profile.png" id="profileicon"></img>
 
+        <h1>{{ page.title }}</h1> <br>
+        <a href="/index.html">Home</a>
+        <a href="/??">About</a>
+        <a href="/tls">Archives</a>
+
+        <footer>
+          <a href="https://twitter.com/_kkumakuma">twitter</a>
+          <a href="https://github.com/kkumakuma">github</a>
+        </footer>
       </div>
+    </div>
 
 		<div class="main-body" id="main">
       {{ content }}
