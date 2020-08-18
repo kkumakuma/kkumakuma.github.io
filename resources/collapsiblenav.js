@@ -24,3 +24,15 @@ function toggleNav() {
     bodycont.style.marginLeft = '10em';
   }
 }
+
+function chngNvBtn(button_id)
+{
+   if (document.getElementById('navbtnicon').text == '\u{2715}')
+   {
+       document.getElementById('navbtnicon').text = '\u{2630}';
+   }
+   else
+   {
+     document.getElementById('navbtnicon').text = '\u{2715}';
+   }
+}

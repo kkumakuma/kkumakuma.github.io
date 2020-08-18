@@ -4,7 +4,7 @@
   }
   div.sidenav {
     width: 100%;
-    height: 3em;
+    height: 5em;
     position: relative;
     box-shadow: none;
   }
@@ -14,19 +14,17 @@
 
   div.sidenav-content h1 {
     font-size: 1em;
+    margin-top: 1.5em;
   }
   div.main-body {
     font-size: 50%;
-    margin-left: 10em;
-    margin-top: 5em;
+    margin-left: 0;
+    margin-top: 6.5em;
+    width: 90%;
   }
 }
 
-/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
 @media screen and (max-width: 400px) {
-  #profileicon {
-    display: none;
-  }
 
   .sidenav-content {
     text-align: center;
