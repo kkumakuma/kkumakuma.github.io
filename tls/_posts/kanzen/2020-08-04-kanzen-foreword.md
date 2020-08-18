@@ -6,6 +6,7 @@
   categories: kanzen
   writer: wataru tsurumi
   chapter: Foreword
+  permalink: /kanzen/foreword
 ---
 <h3>Foreword</h3>
 This book meticulously talks about the different methods of suicide.

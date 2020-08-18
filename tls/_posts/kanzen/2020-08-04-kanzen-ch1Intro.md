@@ -6,6 +6,7 @@
   categories: kanzen
   writer: wataru tsurumi
   chapter: ch1Intro
+  permalink: /kanzen/chapter1-intro
 ---
 ### Medicine
 Painfulness －－－－－
