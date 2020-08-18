@@ -4,8 +4,11 @@ title: すやすや
 ---
 <div class="Home">
 	<h1>Home</h1>
-	{% for post in site.posts %}
-		<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	{% endfor %}
+	<ul class="posts">
+
+	  {% for post in site.categories.shining-bigbang %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
 	<p>[insert text here]</p>
 </div>
