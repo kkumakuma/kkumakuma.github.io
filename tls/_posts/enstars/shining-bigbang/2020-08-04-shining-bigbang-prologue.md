@@ -6,6 +6,7 @@ story: shining-bigbang
 categories: shining-bigbang
 writer: akira (日日日)
 chapter: prologue
+permalink: /shining-bigbang/prologue
 ---
 〈Spring. After school, inside the StarPro office.〉
 <p>&nbsp;</p>

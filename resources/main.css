@@ -1,3 +1,21 @@
+@media screen and (max-width: 700px) {
+  .sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidenav a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .sidenav a {
+    text-align: center;
+    float: none;
+  }
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0 auto;
@@ -27,6 +45,7 @@ body {
   bottom: 0;
   z-index: 1;
   transition: margin-left .5s;
+  box-shadow: 5px 10px 5px #d4abc1;
 }
 
 .sidenav a:hover {
@@ -62,7 +81,11 @@ body {
 
 .main-body {
   margin-top: 6em;
-  margin-left: 5.5em;
+  position: absolute;
+  margin-left: 6em;
+  background-color: white;
+  width: 70%;
+  padding: 20px;
 }
 
 .main-body h1 {
