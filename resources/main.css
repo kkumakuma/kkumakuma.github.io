@@ -22,6 +22,11 @@
     margin-top: 6.5em;
     width: 90%;
   }
+
+  .post img {
+    height: auto;
+    width: auto;
+    max-width: 90%;}
 }
 
 @media screen and (max-width: 400px) {
