@@ -118,8 +118,9 @@ Right now, we are standing in the middle of a radiance that we couldn’t even t
 No….. right now, everyone is running to the forefront at full speed.
 
 And yet, for us, Trickstar, who thought it would be smooth sailing from here on out, it seems there may be dark clouds ahead.
+<p>&nbsp;</p>
 
-Subaru: ? What do you mean?
+**Subaru:** ? What do you mean?
 <p>&nbsp;</p>
 
 **Hokuto:** Hm. Earlier, I checked the electronic trash can in Whole Hands just in case…… Inside a message that automatically got filtered as spam was something suspicious.
