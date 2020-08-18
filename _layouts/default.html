@@ -4,18 +4,20 @@
   <head>
   	<meta charset="utf-8"/>
 	  <title>{{ page.title }}</title>
-	  <link rel="stylesheet" type="text/css" href="/resources/main.css"> <!-- edit later-->
+	  <link rel="stylesheet" type="text/css" href="main.css"> <!-- edit later-->
     <link rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Montserrat">
+    <script type="text/javascript" src="collapsiblenav.js"></script>
 	  <link rel="icon" href="" type="image/gif" sizes="32x32">
   </head>
 
 <body>
-    <div class="sidenav">
+    <div class="sidenav" id="sidebar">
+      <a href="javascript:void(0)" class="navmenubtn" onclick="togNav()">&#9776;</a>
       <div class="profileicon">
         <a href="/resources/test.png"></a>
       </div>
-      <div class="sidenav-content">
+      <div class="sidenav-content" id="sidenavcontent">
         <h1>{{ page.title }}</h1> <br>
         <a href="/lol">Home</a> <br>
         <a href="/enstars">About</a><br>
@@ -28,7 +30,7 @@
       </div>
     </div>
 
-		<div class="main-body">
+		<div class="main-body" id="main">
       <h1>{{ page.title }}</h1>
       {{ content }}
 		</div>

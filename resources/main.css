@@ -5,6 +5,13 @@ body {
   max-width: 70%
 }
 
+.navmenubtn {
+  font-size: 2em;
+  margin-left: 0.5em;
+  color: white;
+  text-decoration: none;
+}
+
 .sidenav-content {
   list-style-type: none;
   margin-top: 26em;
@@ -19,6 +26,7 @@ body {
   left: 0;
   bottom: 0;
   z-index: 1;
+  transition: margin-left .5s;
 }
 
 .sidenav a:hover {
@@ -54,7 +62,7 @@ body {
 
 .main-body {
   margin-top: 6em;
-  margin-left: 6em;
+  margin-left: 5.5em;
 }
 
 .main-body h1 {
