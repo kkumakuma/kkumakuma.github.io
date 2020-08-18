@@ -20,25 +20,38 @@ body {
   font-family: "Montserrat", sans-serif;
   margin: 0 auto;
   height: auto;
-  max-width: 70%
+}
+
+.body-contents {
+  display: flex;
+  align-items: stretch;
 }
 
 .navmenubtn {
   font-size: 2em;
-  margin-left: 0.5em;
+  float:right;
+  margin-right: 0.4em;
   color: white;
   text-decoration: none;
 }
 
+#profileicon {
+  align-content: center;
+  border-radius: 50%;
+}
+
 .sidenav-content {
   list-style-type: none;
-  margin-top: 26em;
+  margin-top: 6em;
+  text-align: center;
+  flex-grow: 1;
 }
+
 .sidenav {
   height: 100%;
   width: 20em;
   background-color: #f7aab3;
-  overflow-y: hidden;
+  overflow-x: hidden;
   position: fixed;
   top: 0;
   left: 0;
@@ -61,7 +74,6 @@ body {
   color: white;
   text-decoration: none;
   overflow: hidden;
-  text-align: center;
 }
 
 .sidenav-content h1 {
@@ -69,7 +81,6 @@ body {
   color: white;
   text-decoration: none;
   overflow: hidden;
-  text-align: center;
 }
 
 .sidenav-content footer {
@@ -80,9 +91,9 @@ body {
 }
 
 .main-body {
-  margin-top: 6em;
+  margin-top: 5em;
   position: absolute;
-  margin-left: 6em;
+  margin-left: 24em;
   background-color: white;
   width: 70%;
   padding: 20px;

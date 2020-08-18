@@ -11,30 +11,31 @@
 	  <link rel="icon" href="" type="image/gif" sizes="32x32">
   </head>
 
-<body>
-    <div class="sidenav" id="sidebar">
-      <a href="javascript:void(0)" class="navmenubtn" onclick="togNav()">&#9776;</a>
-      <div class="profileicon">
-        <a href="/resources/test.png"></a>
+  <body>
+      <div class="body-contents">
+        <div class="sidenav" id="sidebar">
+          <a href="javascript:void(0)" class="navmenubtn" onclick="togNav()">&#9776;</a>
+
+        <div class="sidenav-content" id="sidenavcontent">
+          <img src="/resources/images/profile.png" id="profileicon"></img>
+          <h1>{{ page.title }}</h1> <br>
+          <a href="/index.html">Home</a> <br>
+          <a href="/??">About</a><br>
+          <a href="/tls">Archives</a>
+          <footer>
+            <h2>Contact</h2>
+          	<a href="https://twitter.com/_kkumakuma">twitter</a>
+            <a href="https://github.com/kkumakuma">github</a>
+      		</footer>
+        </div>
+
       </div>
-      <div class="sidenav-content" id="sidenavcontent">
-        <h1>{{ page.title }}</h1> <br>
-        <a href="/index.html">Home</a> <br>
-        <a href="/resources/about.html">About</a><br>
-        <a href="/tls">Archives</a>
-        <footer>
-          <h2>Contact</h2>
-        	<a href="https://twitter.com/_kkumakuma">twitter</a>
-          <a href="https://github.com/kkumakuma">github</a>
-    		</footer>
-      </div>
-    </div>
 
 		<div class="main-body" id="main">
       <h1>{{ page.title }}</h1>
       {{ content }}
 		</div>
-
+</div>
 </body>
 
 </html>
