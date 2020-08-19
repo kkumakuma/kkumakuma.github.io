@@ -3,10 +3,10 @@
     display: none;
   }
   div.sidenav {
-    width: 100%;
-    height: 6.5em;
+    width: 100% !important;
+    height: 6em;
     position: relative;
-    box-shadow: none;
+    box-shadow: none !important;
     overflow-y: hidden;
   }
   div.sidenav-content {margin-top: 0;}
@@ -24,7 +24,7 @@
 
   div.main-body {
     font-size: 85%;
-    margin-left: 0;
+    margin-left: 0 !important;
     margin-top: 2em;
     width: 90%;
   }
