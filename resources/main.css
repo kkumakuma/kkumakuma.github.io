@@ -29,7 +29,7 @@
     width: 90%;
   }
 
-  .center {
+  div.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -51,6 +51,11 @@ body {
   height: auto;
 }
 
+a, p {
+  text-decoration: none;
+}
+
+/*navigation*/
 .navmenubtn {
   font-size: 2em;
   float:right;
@@ -153,6 +158,7 @@ body {
 
 .show {display:block;}
 
+/*main body*/
 .main-body {
   margin-top: 3em;
   position: absolute;
@@ -167,7 +173,56 @@ body {
 .main-body h1 {
   font-size: 24px;
   display: block;
-  color: black;
+  color: #fc6d9d;
   text-decoration: none;
   text-align: left;
+}
+
+/*enstars posts special*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.meta {
+  color: #756f71;
+}
+
+.meta a {
+  color: #756f71;
+}
+
+.dialogue {
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+
+.dialogue p {
+    background-color: pink;
+    border-radius: 25px;
+    padding: 1.5em;
+    width: 70%;
+}
+
+#dialogue2 {
+  flex-direction: row-reverse;
+}
+
+#dialogueHead1 {
+  float: left;
+  border-radius: 50%;
+  height: auto;
+  width: auto;
+  max-width: 8em;
+}
+
+#dialogueHead2 {
+  float: right;
+  border-radius: 50%;
+  height: auto;
+  width: auto;
+  max-width: 8em;
 }
